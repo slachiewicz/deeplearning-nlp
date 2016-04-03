@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>SOKOLNIKI</orth>
+    <lex disamb="1"><base>Sokolniki</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>Sokolniki</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>Sokolniki</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex><base>sokolnik</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>sokolnik</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Kabaret</orth>
+    <lex disamb="1"><base>kabaret</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>kabaret</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam">2</ann>
+   </tok>
+   <tok>
+    <orth>Słuchajcie</orth>
+    <lex disamb="1"><base>słuchać</base><ctag>impt:pl:sec:imperf</ctag></lex>
+    <ann chan="nam">2</ann>
+   </tok>
+   <tok>
+    <orth>Oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Mariusz</orth>
+    <lex disamb="1"><base>Mariusz</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+   <tok>
+    <orth>Kałamaga</orth>
+    <lex><base>Kałamaga</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>kałamaga</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>cyklu</orth>
+    <lex disamb="1"><base>cykl</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex><base>cykl</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>cykl</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>wieczór</orth>
+    <lex disamb="1"><base>wieczór</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>wieczór</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>kabaretowy</orth>
+    <lex><base>kabaretowy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>kabaretowy</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>kabaretowy</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>kabaretowy</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>kabaretowy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>kabaretowy</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>kabaretowy</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Sokolnikach</orth>
+    <lex disamb="1"><base>Sokolniki</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>sokolnik</base><ctag>subst:pl:loc:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>:</orth>
+    <lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Kabaret</orth>
+    <lex disamb="1"><base>kabaret</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>kabaret</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam">2</ann>
+   </tok>
+   <tok>
+    <orth>Słuchajcie</orth>
+    <lex disamb="1"><base>słuchać</base><ctag>impt:pl:sec:imperf</ctag></lex>
+    <ann chan="nam">2</ann>
+   </tok>
+   <tok>
+    <orth>oraz</orth>
+    <lex disamb="1"><base>oraz</base><ctag>conj</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Mariusz</orth>
+    <lex disamb="1"><base>Mariusz</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+   <tok>
+    <orth>Kałamaga</orth>
+    <lex><base>Kałamaga</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>kałamaga</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

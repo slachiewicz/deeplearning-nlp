@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Framlingham</orth>
+    <lex><base>Framlingham</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>framlingham</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Framlingham</orth>
+    <lex><base>Framlingham</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>framlingham</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>miasto</orth>
+    <lex><base>miasto</base><ctag>conj</ctag></lex>
+    <lex><base>miasto</base><ctag>prep:gen</ctag></lex>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>miasto</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>miasto</base><ctag>subst:sg:voc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>Wielkiej</orth>
+    <lex><base>wielki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>wielki</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex disamb="1"><base>wielki</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>Brytanii</orth>
+    <lex><base>Brytania</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Brytania</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Brytania</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Brytania</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>brytania</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>brytania</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>brytania</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>brytania</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>Anglii</orth>
+    <lex><base>Anglia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Anglia</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Anglia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Anglia</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>hrabstwie</orth>
+    <lex disamb="1"><base>hrabstwo</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+   <tok>
+    <orth>Suffolk</orth>
+    <lex><base>Suffolk</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>suffolk</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+    <ann chan="nam_loc_gpe_admin2">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>W</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>2001</orth>
+    <lex><base>2001</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>2001</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex><base>rok</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>miasto</orth>
+    <lex><base>miasto</base><ctag>conj</ctag></lex>
+    <lex><base>miasto</base><ctag>prep:gen</ctag></lex>
+    <lex disamb="1"><base>miasto</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>miasto</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>miasto</base><ctag>subst:sg:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>to</base><ctag>conj</ctag></lex>
+    <lex><base>to</base><ctag>pred</ctag></lex>
+    <lex><base>to</base><ctag>qub</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zamieszkiwało</orth>
+    <lex disamb="1"><base>zamieszkiwać</base><ctag>praet:sg:n:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>2839</orth>
+    <lex><base>2839</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>2839</base><ctag>num:pl:nom:f:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>osób</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

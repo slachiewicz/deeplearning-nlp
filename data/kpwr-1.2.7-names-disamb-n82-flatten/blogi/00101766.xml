@@ -1,0 +1,3274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>ciekawości</orth>
+    <lex disamb="1"><base>ciekawość</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>ciekawość</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>napisał</orth>
+    <lex disamb="1"><base>napisać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>napisać</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>napisać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>nawet</orth>
+    <lex disamb="1"><base>nawet</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>kina</orth>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>Atom</orth>
+    <lex><base>at</base><ctag>subst:pl:dat:m2</ctag></lex>
+    <lex disamb="1"><base>atom</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>atom</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex><base>Al</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Al</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <lex><base>ale</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>być</orth>
+    <lex><base>bycie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>być</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>może</base><ctag>qub</ctag></lex>
+    <lex><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>zajęci</orth>
+    <lex disamb="1"><base>zająć</base><ctag>ppas:pl:nom:m1:perf:aff</ctag></lex>
+    <lex><base>zajęty</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <lex><base>zajęty</base><ctag>adj:pl:voc:m1:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>byli</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:pl:m1:imperf</ctag></lex>
+    <lex><base>były</base><ctag>adj:pl:nom:m1:pos</ctag></lex>
+    <lex><base>były</base><ctag>adj:pl:voc:m1:pos</ctag></lex>
+    <lex><base>były</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <lex><base>były</base><ctag>subst:pl:voc:m1</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>chodzeniem</orth>
+    <lex disamb="1"><base>chodzenie</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>chodzić</base><ctag>ger:sg:inst:n:imperf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>kina</orth>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>doczekał</orth>
+    <lex disamb="1"><base>doczekać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>doczekać</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>doczekać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>odpowiedzi</orth>
+    <lex disamb="1"><base>odpowiedź</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>odpowiedź</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>sprawie</orth>
+    <lex><base>sprawa</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>sprawa</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>foteli</orth>
+    <lex disamb="1"><base>fotel</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent2">
+   <tok>
+    <orth>Nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wszystko</orth>
+    <lex><base>wszystko</base><ctag>adv</ctag></lex>
+    <lex disamb="1"><base>wszystko</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>wszystko</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>stracone</orth>
+    <lex><base>stracić</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:sg:acc:n:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:nom:m2:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:acc:m2:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:nom:m3:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:acc:m3:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:acc:f:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:nom:n:perf:aff</ctag></lex>
+    <lex><base>stracić</base><ctag>ppas:pl:acc:n:perf:aff</ctag></lex>
+    <lex><base>stracona</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>stracona</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>stracona</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex disamb="1"><base>stracony</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex><base>stracony</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>stracony</base><ctag>depr:pl:voc:m2</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>końcu</orth>
+    <lex disamb="1"><base>koniec</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>koniec</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>każdy</orth>
+    <lex disamb="1"><base>każdy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sprawdza</orth>
+    <lex disamb="1"><base>sprawdzać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>spam</orth>
+    <lex><base>spam</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>spam</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>codziennie</orth>
+    <lex disamb="1"><base>codziennie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tego</orth>
+    <lex><base>ten</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:gen:m2:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:m2:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>conj</ctag></lex>
+    <lex><base>jednak</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex><base>co</base><ctag>comp</ctag></lex>
+    <lex><base>co</base><ctag>prep:nom</ctag></lex>
+    <lex><base>co</base><ctag>prep:acc</ctag></lex>
+    <lex><base>co</base><ctag>qub</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zrozumiał</orth>
+    <lex disamb="1"><base>zrozumieć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>zrozumieć</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>zrozumieć</base><ctag>praet:sg:m3:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jakichś</orth>
+    <lex><base>jakiś</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:loc:m1:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:gen:m2:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:loc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>jakiś</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>występujących</orth>
+    <lex><base>występować</base><ctag>pact:pl:gen:m1:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:acc:m1:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:loc:m1:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:gen:m2:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:loc:m2:imperf:aff</ctag></lex>
+    <lex disamb="1"><base>występować</base><ctag>pact:pl:gen:m3:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:loc:m3:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:gen:f:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:loc:f:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:gen:n:imperf:aff</ctag></lex>
+    <lex><base>występować</base><ctag>pact:pl:loc:n:imperf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sieci</orth>
+    <lex><base>sieć</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>sieć</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>sieć</base><ctag>subst:pl:voc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>strzępów</orth>
+    <lex disamb="1"><base>strzęp</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wypowiedzi</orth>
+    <lex><base>wypowiedź</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex disamb="1"><base>wypowiedź</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>wypowiedź</base><ctag>subst:pl:voc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>właścicieli</orth>
+    <lex disamb="1"><base>właściciel</base><ctag>subst:pl:gen:m1</ctag></lex>
+    <lex><base>właściciel</base><ctag>subst:pl:acc:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kina</orth>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>kino</base><ctag>subst:pl:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przepisów</orth>
+    <lex disamb="1"><base>przepis</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex><base>o</base><ctag>interj</ctag></lex>
+    <lex><base>o</base><ctag>prep:acc</ctag></lex>
+    <lex disamb="1"><base>o</base><ctag>prep:loc</ctag></lex>
+    <lex><base>ojciec</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ochronie</orth>
+    <lex><base>ochrona</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>ochrona</base><ctag>subst:sg:loc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zabytków</orth>
+    <lex disamb="1"><base>zabytek</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wymiana</orth>
+    <lex disamb="1"><base>wymiana</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>foteli</orth>
+    <lex disamb="1"><base>fotel</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>możliwa</orth>
+    <lex disamb="1"><base>możliwy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>możliwy</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jak</orth>
+    <lex><base>jak</base><ctag>adv</ctag></lex>
+    <lex disamb="1"><base>jak</base><ctag>adv:pos</ctag></lex>
+    <lex><base>jak</base><ctag>conj</ctag></lex>
+    <lex><base>jak</base><ctag>prep:nom</ctag></lex>
+    <lex><base>jak</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>jaka</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>najbardziej</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:sup</ctag></lex>
+    <lex><base>najbardziej</base><ctag>adv</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex><base>Al</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Al</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <lex><base>ale</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dość</orth>
+    <lex><base>dość</base><ctag>pred</ctag></lex>
+    <lex disamb="1"><base>dość</base><ctag>qub</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <lex><base>że</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>trudna</orth>
+    <lex disamb="1"><base>trudny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>trudny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>administracyjnie</orth>
+    <lex disamb="1"><base>administracyjnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <lex><base>to</base><ctag>pred</ctag></lex>
+    <lex><base>to</base><ctag>qub</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jeszcze</orth>
+    <lex disamb="1"><base>jeszcze</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>droga</orth>
+    <lex disamb="1"><base>droga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <lex><base>bo</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jak</orth>
+    <lex><base>jak</base><ctag>adv</ctag></lex>
+    <lex disamb="1"><base>jak</base><ctag>adv:pos</ctag></lex>
+    <lex><base>jak</base><ctag>conj</ctag></lex>
+    <lex><base>jak</base><ctag>prep:nom</ctag></lex>
+    <lex><base>jak</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>jaka</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>konserwator</orth>
+    <lex disamb="1"><base>konserwator</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zgodzi</orth>
+    <lex disamb="1"><base>zgodzić</base><ctag>fin:sg:ter:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <lex><base>to</base><ctag>pred</ctag></lex>
+    <lex><base>to</base><ctag>qub</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tylko</orth>
+    <lex><base>Tylka</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>tylko</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>tylko</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nowoczesne</orth>
+    <lex><base>nowoczesny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex disamb="1"><base>nowoczesny</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>nowoczesny</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>antyki</orth>
+    <lex><base>antyk</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex disamb="1"><base>antyk</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>antyk</base><ctag>subst:pl:voc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Zresztą</orth>
+    <lex disamb="1"><base>zresztą</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tych</orth>
+    <lex><base>Tychy</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:loc:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:gen:m2:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:loc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>ten</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kawałków</orth>
+    <lex disamb="1"><base>kawałek</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>informacji</orth>
+    <lex><base>informacja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>informacja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>informacja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex disamb="1"><base>informacja</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wynika</orth>
+    <lex disamb="1"><base>wynikać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <lex><base>że</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sala</orth>
+    <lex disamb="1"><base>Sala</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>sala</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>istnieje</orth>
+    <lex disamb="1"><base>istnieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex><base>Oda</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>1937</orth>
+    <lex><base>1937</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1937</base><ctag>num:pl:gen:m3:congr</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>czyli</orth>
+    <lex disamb="1"><base>czyli</base><ctag>conj</ctag></lex>
+    <lex><base>czyli</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>obchodzi</orth>
+    <lex disamb="1"><base>obchodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>okrągłą</orth>
+    <lex disamb="1"><base>okrągły</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <lex><base>okrągły</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rocznicę</orth>
+    <lex disamb="1"><base>rocznica</base><ctag>subst:sg:acc:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex><base>co</base><ctag>comp</ctag></lex>
+    <lex><base>co</base><ctag>prep:nom</ctag></lex>
+    <lex><base>co</base><ctag>prep:acc</ctag></lex>
+    <lex><base>co</base><ctag>qub</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mogło</orth>
+    <lex disamb="1"><base>móc</base><ctag>praet:sg:n:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>stanowić</orth>
+    <lex disamb="1"><base>stanowić</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pretekst</orth>
+    <lex><base>pretekst</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>pretekst</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>namówienia</orth>
+    <lex><base>namówienie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>namówienie</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>namówienie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>namówienie</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex disamb="1"><base>namówić</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jakiejś</orth>
+    <lex disamb="1"><base>jakiś</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex><base>jakiś</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>instytucji</orth>
+    <lex disamb="1"><base>instytucja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>instytucja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>instytucja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>instytucja</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>małą</orth>
+    <lex><base>mała</base><ctag>subst:sg:acc:f</ctag></lex>
+    <lex><base>mała</base><ctag>subst:sg:inst:f</ctag></lex>
+    <lex disamb="1"><base>mały</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dotację</orth>
+    <lex disamb="1"><base>dotacja</base><ctag>subst:sg:acc:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent5">
+   <tok>
+    <orth>Teraz</orth>
+    <lex disamb="1"><base>teraz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>oczywiście</orth>
+    <lex><base>oczywiście</base><ctag>adv:pos</ctag></lex>
+    <lex disamb="1"><base>oczywiście</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>za</orth>
+    <lex><base>za</base><ctag>prep:gen</ctag></lex>
+    <lex><base>za</base><ctag>prep:acc</ctag></lex>
+    <lex><base>za</base><ctag>prep:inst</ctag></lex>
+    <lex disamb="1"><base>za</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>późno</orth>
+    <lex disamb="1"><base>późno</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>budżety</orth>
+    <lex><base>budżet</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex disamb="1"><base>budżet</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>budżet</base><ctag>subst:pl:voc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>ten</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex disamb="1"><base>ten</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>rok</orth>
+    <lex><base>rok</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>dawno</orth>
+    <lex disamb="1"><base>dawno</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>zamknięte</orth>
+    <lex><base>zamknięty</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>zamknięty</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:sg:nom:n:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:sg:acc:n:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:nom:m2:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:acc:m2:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:nom:m3:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:acc:m3:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:nom:f:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:acc:f:perf:aff</ctag></lex>
+    <lex disamb="1"><base>zamknąć</base><ctag>ppas:pl:nom:n:perf:aff</ctag></lex>
+    <lex><base>zamknąć</base><ctag>ppas:pl:acc:n:perf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>piłkę</orth>
+    <lex disamb="1"><base>piłka</base><ctag>subst:sg:acc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Atomie</orth>
+    <lex disamb="1"><base>atom</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>atom</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>zagrać</orth>
+    <lex><base>zagracić</base><ctag>impt:sg:sec:perf</ctag></lex>
+    <lex disamb="1"><base>zagrać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+    <lex><base>możny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>możny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>elektrowni</orth>
+    <lex disamb="1"><base>elektrownia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>elektrownia</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>elektrownia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>elektrownia</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>jądrowej</orth>
+    <lex disamb="1"><base>jądrowy</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>jądrowy</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex><base>jądrowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>też</orth>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>też</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Polsce</orth>
+    <lex><base>Polska</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>mamy</orth>
+    <lex><base>mama</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>mama</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>mama</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>mama</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex disamb="1"><base>mieć</base><ctag>fin:pl:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent6">
+   <tok>
+    <orth>Co</orth>
+    <lex><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>CO</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>comp</ctag></lex>
+    <lex><base>co</base><ctag>prep:nom</ctag></lex>
+    <lex><base>co</base><ctag>prep:acc</ctag></lex>
+    <lex><base>co</base><ctag>qub</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>filmów</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>festiwalu</orth>
+    <lex disamb="1"><base>festiwal</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex><base>festiwal</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>festiwal</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent7">
+   <tok>
+    <orth>Z</orth>
+    <lex><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>filmami</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:inst:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tak</orth>
+    <lex disamb="1"><base>tak</base><ctag>adv:pos</ctag></lex>
+    <lex><base>tak</base><ctag>qub</ctag></lex>
+    <lex><base>taka</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <lex><base>że</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wiadomo</orth>
+    <lex><base>wiadomo</base><ctag>adv:pos</ctag></lex>
+    <lex disamb="1"><base>wiadomo</base><ctag>pred</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent8">
+   <tok>
+    <orth>Próbował</orth>
+    <lex disamb="1"><base>próbować</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <lex><base>próbować</base><ctag>praet:sg:m2:imperf</ctag></lex>
+    <lex><base>próbować</base><ctag>praet:sg:m3:imperf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>sprawdzić</orth>
+    <lex disamb="1"><base>sprawdzić</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>czy</orth>
+    <lex><base>czy</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>czy</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>filmy</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex><base>film</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>film</base><ctag>subst:pl:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nadają</orth>
+    <lex disamb="1"><base>nadawać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <lex><base>nadawać</base><ctag>fin:pl:ter:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>oglądania</orth>
+    <lex disamb="1"><base>oglądać</base><ctag>ger:sg:gen:n:imperf:aff</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ale</orth>
+    <lex><base>Al</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Al</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>Ala</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Ali</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Alo</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex disamb="1"><base>ale</base><ctag>conj</ctag></lex>
+    <lex><base>ale</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>miałem</orth>
+    <lex disamb="1"><base>miał</base><ctag>subst:sg:inst:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>karnetu</orth>
+    <lex disamb="1"><base>karnet</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>napięty</orth>
+    <lex><base>napiąć</base><ctag>ppas:sg:nom:m1:perf:aff</ctag></lex>
+    <lex><base>napiąć</base><ctag>ppas:sg:nom:m2:perf:aff</ctag></lex>
+    <lex disamb="1"><base>napiąć</base><ctag>ppas:sg:nom:m3:perf:aff</ctag></lex>
+    <lex><base>napiąć</base><ctag>ppas:sg:acc:m3:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>grafik</orth>
+    <lex><base>grafik</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>grafik</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>grafik</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>grafika</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>żaden</orth>
+    <lex><base>żaden</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex disamb="1"><base>żaden</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>film</orth>
+    <lex><base>film</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>film</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>udało</orth>
+    <lex disamb="1"><base>udać</base><ctag>praet:sg:n:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m2:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m3:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:f:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:n:pri:nakc</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:voc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ostatnią</orth>
+    <lex disamb="1"><base>ostatni</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <lex><base>ostatni</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>chwilę</orth>
+    <lex disamb="1"><base>chwila</base><ctag>subst:sg:acc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kupić</orth>
+    <lex><base>kupić</base><ctag>inf:imperf</ctag></lex>
+    <lex disamb="1"><base>kupić</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>biletów</orth>
+    <lex disamb="1"><base>bilet</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent9">
+   <tok>
+    <orth>Obejrzał</orth>
+    <lex disamb="1"><base>obejrzeć</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>obejrzeć</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>obejrzeć</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>dwa</orth>
+    <lex><base>dwa</base><ctag>num:pl:nom:m2:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:acc:m2:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:voc:m2:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:nom:m3:congr</ctag></lex>
+    <lex disamb="1"><base>dwa</base><ctag>num:pl:acc:m3:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:voc:m3:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:nom:n:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:acc:n:congr</ctag></lex>
+    <lex><base>dwa</base><ctag>num:pl:voc:n:congr</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>filmy</orth>
+    <lex><base>film</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>film</base><ctag>subst:pl:voc:m3</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>plus</orth>
+    <lex><base>plus</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex disamb="1"><base>plus</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>plus</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>jeden</orth>
+    <lex><base>jeden</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>jeden</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>jeden</base><ctag>subst:sg:voc:m2</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>Rynku</orth>
+    <lex><base>rynek</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>rynek</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rynek</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_square">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>liczy</orth>
+    <lex disamb="1"><base>liczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>jeden</orth>
+    <lex disamb="1"><base>jeden</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m1:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m2:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:m3:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:f:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:nom:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:gen:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:dat:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:acc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:inst:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:loc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>num:pl:voc:n:rec</ctag></lex>
+    <lex><base>jeden</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>jeden</base><ctag>subst:sg:voc:m2</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>a</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <lex><base>a</base><ctag>interj</ctag></lex>
+    <lex><base>a</base><ctag>prep:nom</ctag></lex>
+    <lex><base>a</base><ctag>qub</ctag></lex>
+    <lex><base>albo</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>drugi</orth>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:voc:m2</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>bardzo</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <tok>
+    <orth>dobry</orth>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>dobry</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_square">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent10">
+   <tok>
+    <orth>Drugi</orth>
+    <lex><base>drugi</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:voc:m2</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>drugi</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Persepolis</orth>
+    <lex><base>Persepolis</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>persepolis</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_title">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>wejdzie</orth>
+    <lex disamb="1"><base>wejść</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>nawet</orth>
+    <lex disamb="1"><base>nawet</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>dystrybucji</orth>
+    <lex disamb="1"><base>dystrybucja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
+    <lex><base>możny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>możny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>naocznie</orth>
+    <lex disamb="1"><base>naocznie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <tok>
+    <orth>przekonać</orth>
+    <lex disamb="1"><base>przekonać</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_title">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent11">
+   <tok>
+    <orth>Kiedyś</orth>
+    <lex disamb="1"><base>kiedyś</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>pewno</orth>
+    <lex disamb="1"><base>pewno</base><ctag>adv:pos</ctag></lex>
+    <lex><base>pewno</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>by</orth>
+    <lex><base>by</base><ctag>comp</ctag></lex>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>wolał</orth>
+    <lex disamb="1"><base>woleć</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <lex><base>woleć</base><ctag>praet:sg:m2:imperf</ctag></lex>
+    <lex><base>woleć</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>każdy</orth>
+    <lex><base>każdy</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex disamb="1"><base>każdy</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>każdy</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>film</orth>
+    <lex><base>film</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>film</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>zobaczyć</orth>
+    <lex disamb="1"><base>zobaczyć</base><ctag>inf:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>kinie</orth>
+    <lex><base>Kinia</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>Kinia</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>Kinia</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>kinąć</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>teraz</orth>
+    <lex disamb="1"><base>teraz</base><ctag>adv</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>jednak</orth>
+    <lex disamb="1"><base>jednak</base><ctag>conj</ctag></lex>
+    <lex><base>jednak</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>chce</orth>
+    <lex disamb="1"><base>chcieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m2:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m3:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:f:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:n:pri:nakc</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>bo</orth>
+    <lex disamb="1"><base>bo</base><ctag>comp</ctag></lex>
+    <lex><base>bo</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>jednej</orth>
+    <lex disamb="1"><base>jeden</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex><base>jeden</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>strony</orth>
+    <lex disamb="1"><base>strona</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>strona</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>strona</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>strona</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>lubię</orth>
+    <lex disamb="1"><base>lubić</base><ctag>fin:sg:pri:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>kameralnych</orth>
+    <lex><base>kameralny</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:loc:m1:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:gen:m2:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:loc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>kameralny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <lex><base>kameralny</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>filmów</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>oglądać</orth>
+    <lex disamb="1"><base>oglądać</base><ctag>inf:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>multipleksie</orth>
+    <lex disamb="1"><base>multipleks</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>multipleks</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>drugiej</orth>
+    <lex><base>druga</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>druga</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>druga</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex disamb="1"><base>drugi</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex><base>drugi</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>Atom</orth>
+    <lex><base>at</base><ctag>subst:pl:dat:m2</ctag></lex>
+    <lex disamb="1"><base>atom</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>atom</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_goe">1</ann>
+   </tok>
+   <tok>
+    <orth>też</orth>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>też</base><ctag>qub</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>moim</orth>
+    <lex><base>moi</base><ctag>subst:pl:dat:m1</ctag></lex>
+    <lex><base>moja</base><ctag>subst:pl:dat:f</ctag></lex>
+    <lex><base>moje</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>moje</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>moje</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:loc:m1:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:inst:m2:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:loc:m2:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <lex disamb="1"><base>mój</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:pl:dat:m1:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:pl:dat:m2:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:pl:dat:m3:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:pl:dat:f:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:pl:dat:n:pos</ctag></lex>
+    <lex><base>mój</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <lex><base>mój</base><ctag>subst:sg:loc:m1</ctag></lex>
+    <lex><base>mój</base><ctag>subst:pl:dat:m1</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>ulubionym</orth>
+    <lex><base>ulubiony</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:loc:m1:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:inst:m2:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:loc:m2:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <lex disamb="1"><base>ulubiony</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:pl:dat:m1:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:pl:dat:m2:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:pl:dat:m3:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:pl:dat:f:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>adj:pl:dat:n:pos</ctag></lex>
+    <lex><base>ulubiony</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <lex><base>ulubiony</base><ctag>subst:sg:loc:m1</ctag></lex>
+    <lex><base>ulubiony</base><ctag>subst:pl:dat:m1</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:inst:m1:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:loc:m1:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:inst:m2:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:loc:m2:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:inst:m3:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:loc:m3:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:inst:n:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:sg:loc:n:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:pl:dat:m1:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:pl:dat:m2:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:pl:dat:m3:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:pl:dat:f:perf:aff</ctag></lex>
+    <lex><base>ulubić</base><ctag>ppas:pl:dat:n:perf:aff</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <tok>
+    <orth>kinem</orth>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:inst:n</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_goe">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent12">
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+    <lex><base>a</base><ctag>interj</ctag></lex>
+    <lex><base>a</base><ctag>prep:nom</ctag></lex>
+    <lex><base>a</base><ctag>qub</ctag></lex>
+    <lex><base>albo</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>ponieważ</orth>
+    <lex disamb="1"><base>ponieważ</base><ctag>comp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>raczej</orth>
+    <lex disamb="1"><base>raczej</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>mało</orth>
+    <lex disamb="1"><base>mało</base><ctag>adv:pos</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:nom:m1:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:acc:m1:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:acc:f:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:nom:n:rec</ctag></lex>
+    <lex><base>mało</base><ctag>num:pl:acc:n:rec</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>prawdopodobne</orth>
+    <lex disamb="1"><base>prawdopodobny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>prawdopodobny</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>żeby</orth>
+    <lex disamb="1"><base>żeby</base><ctag>comp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>był</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <lex><base>być</base><ctag>praet:sg:m2:imperf</ctag></lex>
+    <lex><base>być</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>jedyny</orth>
+    <lex disamb="1"><base>jedyny</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>jedyny</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>jedyny</base><ctag>subst:sg:voc:m1</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>taki</orth>
+    <lex><base>taka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>taka</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>taka</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>taka</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex disamb="1"><base>taki</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>taki</base><ctag>adv</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>wybredny</orth>
+    <lex disamb="1"><base>wybredny</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>wybredny</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>więc</orth>
+    <lex disamb="1"><base>więc</base><ctag>conj</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>jakby</orth>
+    <lex><base>jakby</base><ctag>comp</ctag></lex>
+    <lex disamb="1"><base>jakby</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m2:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m3:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:f:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:n:pri:nakc</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>ktoś</orth>
+    <lex disamb="1"><base>ktoś</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>dał</orth>
+    <lex disamb="1"><base>dać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>dać</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>dać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>nielegalne</orth>
+    <lex><base>nielegalny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex disamb="1"><base>nielegalny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>nielegalny</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>kopie</orth>
+    <lex><base>kop</base><ctag>subst:sg:loc:m2</ctag></lex>
+    <lex><base>kop</base><ctag>subst:sg:voc:m2</ctag></lex>
+    <lex><base>kopa</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>kopa</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>kopać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex><base>kopia</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex disamb="1"><base>kopia</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>kopia</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>filmów</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex><base>który</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>załapał</orth>
+    <lex disamb="1"><base>załapać</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>załapać</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>załapać</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>em</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:wok</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>swoją</orth>
+    <lex><base>swoić</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <lex><base>swój</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <lex disamb="1"><base>swój</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>drogą</orth>
+    <lex disamb="1"><base>droga</base><ctag>subst:sg:inst:f</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:acc:f:pos</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>dystrybucji</orth>
+    <lex disamb="1"><base>dystrybucja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>dystrybucja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>pewnie</orth>
+    <lex><base>pewnie</base><ctag>adv:pos</ctag></lex>
+    <lex disamb="1"><base>pewnie</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>wejdą</orth>
+    <lex disamb="1"><base>wejść</base><ctag>fin:pl:ter:perf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>DVD</orth>
+    <lex disamb="1"><base>DVD</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>DVD</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_oth_tech">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Polsce</orth>
+    <lex><base>Polska</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Polska</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+   </tok>
+   <tok>
+    <orth>też</orth>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>tenże</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>też</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>mój</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>małe</orth>
+    <lex><base>Mały</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Mały</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>mała</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>mała</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>mała</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex><base>małe</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>małe</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>małe</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>małe</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>małe</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>małe</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex><base>mały</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex disamb="1"><base>mały</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex><base>mały</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>mały</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>szanse</orth>
+    <lex><base>szansa</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex disamb="1"><base>szansa</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>szansa</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>conj</ctag></lex>
+    <lex><base>to</base><ctag>pred</ctag></lex>
+    <lex><base>to</base><ctag>qub</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>by</orth>
+    <lex><base>by</base><ctag>comp</ctag></lex>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>m</orth>
+    <lex disamb="1"><base>być</base><ctag>aglt:sg:pri:imperf:nwok</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>brał</orth>
+    <lex disamb="1"><base>brać</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <lex><base>brać</base><ctag>praet:sg:m2:imperf</ctag></lex>
+    <lex><base>brać</base><ctag>praet:sg:m3:imperf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>telewizor</orth>
+    <lex disamb="1"><base>telewizor</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>telewizor</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>mi</orth>
+    <lex disamb="1"><base>ja</base><ctag>ppron12:sg:dat:m1:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m2:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:m3:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:f:pri:nakc</ctag></lex>
+    <lex><base>ja</base><ctag>ppron12:sg:dat:n:pri:nakc</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>mi</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>ładnie</orth>
+    <lex disamb="1"><base>ładnie</base><ctag>adv:pos</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>odbiera</orth>
+    <lex disamb="1"><base>odbierać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_oth_tech">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent13">
+   <tok>
+    <orth>Chodzi</orth>
+    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex><base>o</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <lex><base>o</base><ctag>prep:loc</ctag></lex>
+    <lex><base>ojciec</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex><base>ten</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>ten</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>to</base><ctag>conj</ctag></lex>
+    <lex><base>to</base><ctag>pred</ctag></lex>
+    <lex><base>to</base><ctag>qub</ctag></lex>
+    <lex><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <lex><base>że</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>liczba</orth>
+    <lex disamb="1"><base>liczba</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>osób</orth>
+    <lex disamb="1"><base>osoba</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>które</orth>
+    <lex><base>który</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex disamb="1"><base>który</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>który</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zobaczyły</orth>
+    <lex><base>zobaczyć</base><ctag>praet:pl:m2:perf</ctag></lex>
+    <lex><base>zobaczyć</base><ctag>praet:pl:m3:perf</ctag></lex>
+    <lex disamb="1"><base>zobaczyć</base><ctag>praet:pl:f:perf</ctag></lex>
+    <lex><base>zobaczyć</base><ctag>praet:pl:n:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>by</orth>
+    <lex disamb="1"><base>by</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>film</orth>
+    <lex><base>film</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>film</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kinie</orth>
+    <lex><base>Kinia</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>Kinia</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>Kinia</base><ctag>subst:pl:voc:f</ctag></lex>
+    <lex disamb="1"><base>kino</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>kinąć</base><ctag>fin:sg:ter:perf</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>gdyby</orth>
+    <lex disamb="1"><base>gdyby</base><ctag>comp</ctag></lex>
+    <lex><base>gdyby</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>miały</orth>
+    <lex><base>miał</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex><base>miał</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>miał</base><ctag>subst:pl:voc:m3</ctag></lex>
+    <lex><base>mieć</base><ctag>praet:pl:m2:imperf</ctag></lex>
+    <lex disamb="1"><base>mieć</base><ctag>praet:pl:m3:imperf</ctag></lex>
+    <lex><base>mieć</base><ctag>praet:pl:f:imperf</ctag></lex>
+    <lex><base>mieć</base><ctag>praet:pl:n:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>lepszy</orth>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m1:com</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m1:com</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:nom:m2:com</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m2:com</ctag></lex>
+    <lex disamb="1"><base>dobry</base><ctag>adj:sg:nom:m3:com</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:acc:m3:com</ctag></lex>
+    <lex><base>dobry</base><ctag>adj:sg:voc:m3:com</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wybór</orth>
+    <lex disamb="1"><base>wybór</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>wybór</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rodzajów</orth>
+    <lex disamb="1"><base>rodzaj</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kin</orth>
+    <lex disamb="1"><base>kino</base><ctag>subst:pl:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pewnie</orth>
+    <lex><base>pewnie</base><ctag>adv:pos</ctag></lex>
+    <lex disamb="1"><base>pewnie</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tyle</orth>
+    <lex disamb="1"><base>tyle</base><ctag>adv</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:nom:m1:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:acc:m1:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:voc:m1:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:nom:m2:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:acc:m2:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:voc:m2:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:voc:m3:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:nom:f:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:acc:f:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:voc:f:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:nom:n:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:acc:n:rec</ctag></lex>
+    <lex><base>tyle</base><ctag>num:pl:voc:n:rec</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+    <lex><base>tyli</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+    <lex><base>tył</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>tył</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>duża</orth>
+    <lex><base>dużać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex disamb="1"><base>duży</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>duży</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>że</orth>
+    <lex disamb="1"><base>że</base><ctag>comp</ctag></lex>
+    <lex><base>że</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>może</orth>
+    <lex disamb="1"><base>może</base><ctag>qub</ctag></lex>
+    <lex><base>móc</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>warto</orth>
+    <lex><base>warta</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex disamb="1"><base>warto</base><ctag>pred</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>o</orth>
+    <lex><base>o</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <lex><base>o</base><ctag>prep:loc</ctag></lex>
+    <lex><base>ojciec</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex disamb="1"><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>starać</orth>
+    <lex disamb="1"><base>starać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>bardziej</orth>
+    <lex disamb="1"><base>bardzo</base><ctag>adv:com</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

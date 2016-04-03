@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Maciej</orth>
+    <lex disamb="1"><base>Maciej</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Erwin</orth>
+    <lex disamb="1"><base>Erwin</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>Erwina</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Halbański</orth>
+    <lex><base>Halbański</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>halbański</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Maciej</orth>
+    <lex disamb="1"><base>Maciej</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Erwin</orth>
+    <lex disamb="1"><base>Erwin</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>Erwina</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Halbański</orth>
+    <lex><base>Halbański</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>halbański</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>ur</orth>
+    <lex disamb="1"><base>urodzony</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>1912</orth>
+    <lex><base>1912</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1912</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>zm</orth>
+    <lex disamb="1"><base>zmarł</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>zmarły</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>1981</orth>
+    <lex><base>1981</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1981</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>autor</orth>
+    <lex disamb="1"><base>autor</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>książek</orth>
+    <lex><base>Książek</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>książka</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>dziedziny</orth>
+    <lex disamb="1"><base>dziedzina</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>dziedzina</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>dziedzina</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>dziedzina</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>sztuki</orth>
+    <lex><base>Sztuka</base><ctag>depr:pl:nom:m2</ctag></lex>
+    <lex><base>Sztuka</base><ctag>depr:pl:voc:m2</ctag></lex>
+    <lex><base>Sztuka</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <lex><base>sztuk</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <lex><base>sztuk</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <lex><base>sztuk</base><ctag>subst:pl:voc:m3</ctag></lex>
+    <lex disamb="1"><base>sztuka</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>sztuka</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>sztuka</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>sztuka</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>kulinarnej</orth>
+    <lex disamb="1"><base>kulinarny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>kulinarny</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex><base>kulinarny</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wykształcenia</orth>
+    <lex disamb="1"><base>wykształcenie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>wykształcenie</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>wykształcenie</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>wykształcenie</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex><base>wykształcić</base><ctag>ger:sg:gen:n:perf:aff</ctag></lex>
+   </tok>
+   <tok>
+    <orth>był</orth>
+    <lex disamb="1"><base>być</base><ctag>praet:sg:m1:imperf</ctag></lex>
+    <lex><base>być</base><ctag>praet:sg:m2:imperf</ctag></lex>
+    <lex><base>być</base><ctag>praet:sg:m3:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ekonomistą</orth>
+    <lex disamb="1"><base>ekonomista</base><ctag>subst:sg:inst:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>i</orth>
+    <lex disamb="1"><base>i</base><ctag>conj</ctag></lex>
+    <lex><base>i</base><ctag>interj</ctag></lex>
+    <lex><base>i</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>prawnikiem</orth>
+    <lex disamb="1"><base>prawnik</base><ctag>subst:sg:inst:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>
