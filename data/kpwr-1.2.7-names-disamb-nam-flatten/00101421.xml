@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Emden</orth>
+    <lex><base>Emden</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>emden</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Außenhafen</orth>
+    <lex><base>Außenhafen</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>außenhafen</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Emden</orth>
+    <lex><base>Emden</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>emden</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>Außenhafen</orth>
+    <lex><base>Außenhafen</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>außenhafen</base><ctag>subst:sg:nom:n</ctag></lex>
+    <ann chan="nam">1</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>stacja</orth>
+    <lex disamb="1"><base>stacja</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>kolejowa</orth>
+    <lex disamb="1"><base>kolejowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>kolejowy</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Emden</orth>
+    <lex><base>Emden</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>emden</base><ctag>subst:sg:loc:n</ctag></lex>
+    <ann chan="nam">2</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>kraju</orth>
+    <lex><base>kraj</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>kraj</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>kraj</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>związkowym</orth>
+    <lex><base>związkowy</base><ctag>adj:sg:inst:m1:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:loc:m1:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:inst:m2:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:loc:m2:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:inst:m3:pos</ctag></lex>
+    <lex disamb="1"><base>związkowy</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:inst:n:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:sg:loc:n:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:pl:dat:m1:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:pl:dat:m2:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:pl:dat:m3:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:pl:dat:f:pos</ctag></lex>
+    <lex><base>związkowy</base><ctag>adj:pl:dat:n:pos</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Dolna</orth>
+    <lex disamb="1"><base>dolny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>dolny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+   <tok>
+    <orth>Saksonia</orth>
+    <lex disamb="1"><base>Saksonia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam">3</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+   <tok>
+    <orth>Niemczech</orth>
+    <lex disamb="1"><base>Niemcy</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam">4</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>Znajduje</orth>
+    <lex disamb="1"><base>znajdować</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex disamb="1"><base>znajdywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>tu</orth>
+    <lex disamb="1"><base>tu</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>1</orth>
+    <lex><base>1</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>peron</orth>
+    <lex><base>Peron</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>peron</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>peron</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Droga</orth>
+    <lex disamb="1"><base>droga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>krajowa</orth>
+    <lex disamb="1"><base>krajowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>krajowy</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>B210</orth>
+    <lex><base>B210</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>b210</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Niemcy</orth>
+    <lex><base>Niemcy</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>Niemcy</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>Niemcy</base><ctag>subst:pl:voc:n</ctag></lex>
+    <lex disamb="1"><base>Niemiec</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <lex><base>Niemiec</base><ctag>subst:pl:voc:m1</ctag></lex>
+    <lex disamb="1"><base>niemiec</base><ctag>subst:pl:nom:m1</ctag></lex>
+    <lex><base>niemiec</base><ctag>subst:pl:voc:m1</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Droga</orth>
+    <lex disamb="1"><base>droga</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>drogi</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>krajowa</orth>
+    <lex disamb="1"><base>krajowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>krajowy</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>210</orth>
+    <lex><base>210</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>210</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_fac_road">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Bundesstraße</orth>
+    <lex><base>Bundesstraße</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>bundesstraße</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>210</orth>
+    <lex><base>210</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>210</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <ann chan="nam_fac_road">2</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>B</orth>
+    <lex><base>bardzo</base><ctag>brev:pun</ctag></lex>
+    <lex><base>bez</base><ctag>brev:pun</ctag></lex>
+    <lex><base>bieżący</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>bit</base><ctag>brev:npun</ctag></lex>
+    <lex><base>brat</base><ctag>brev:pun</ctag></lex>
+    <lex><base>były</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_road">3</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>210</orth>
+    <lex><base>210</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>210</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+    <ann chan="nam_fac_road">3</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>przebiega</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <lex><base>przebiegać</base><ctag>fin:sg:ter:perf</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>przez</orth>
+    <lex disamb="1"><base>przez</base><ctag>prep:acc:nwok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>teren</orth>
+    <lex><base>teren</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>teren</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>Niemiec</orth>
+    <lex><base>Niemcy</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>Niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex><base>niemiec</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <lex><base>z</base><ctag>qub</ctag></lex>
+    <lex><base>zeszyt</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>zachodu</orth>
+    <lex disamb="1"><base>zachód</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>wschód</orth>
+    <lex><base>wschód</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex disamb="1"><base>wschód</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>od</orth>
+    <lex><base>Oda</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex disamb="1"><base>od</base><ctag>prep:gen:nwok</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>miejscowości</orth>
+    <lex disamb="1"><base>miejscowość</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:sg:voc:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:pl:nom:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:pl:acc:f</ctag></lex>
+    <lex><base>miejscowość</base><ctag>subst:pl:voc:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>Emden</orth>
+    <lex><base>Emden</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>emden</base><ctag>subst:sg:gen:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">1</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:sg:voc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:nom:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:dat:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:acc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:inst:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>do</base><ctag>subst:pl:voc:n</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>Wilhelmshaven</orth>
+    <lex><base>Wilhelmshaven</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>wilhelmshaven</base><ctag>subst:sg:gen:n</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">2</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+   <tok>
+    <orth>Dolnej</orth>
+    <lex><base>dolny</base><ctag>adj:sg:gen:f:pos</ctag></lex>
+    <lex><base>dolny</base><ctag>adj:sg:dat:f:pos</ctag></lex>
+    <lex disamb="1"><base>dolny</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+   </tok>
+   <tok>
+    <orth>Saksonii</orth>
+    <lex><base>Saksonia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Saksonia</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Saksonia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Saksonia</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_fac_road">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+    <ann chan="nam_loc_gpe_city">0</ann>
+    <ann chan="nam_loc_gpe_admin1">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Predrag</orth>
+    <lex><base>Predrag</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>predrag</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">1</ann>
+   </tok>
+   <tok>
+    <orth>Pavlović</orth>
+    <lex><base>Pavlović</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>pavlović</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Predrag</orth>
+    <lex><base>Predrag</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>predrag</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">1</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Pavlović</orth>
+    <lex><base>Pavlović</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>pavlović</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">1</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>serb</orth>
+    <lex disamb="1"><base>Serb</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Предраг</orth>
+    <lex><base>Предраг</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>предраг</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">2</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Павловић</orth>
+    <lex><base>Павловић</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>павловић</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">2</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>ur</orth>
+    <lex disamb="1"><base>urodzony</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>19</orth>
+    <lex><base>19</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>19</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>czerwca</orth>
+    <lex><base>czerwiec</base><ctag>subst:sg:gen:m2</ctag></lex>
+    <lex><base>czerwiec</base><ctag>subst:sg:acc:m2</ctag></lex>
+    <lex disamb="1"><base>czerwiec</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>1986</orth>
+    <lex><base>1986</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1986</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>serbski</orth>
+    <lex disamb="1"><base>serbski</base><ctag>adj:sg:nom:m1:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:voc:m1:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:nom:m2:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:voc:m2:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:nom:m3:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:acc:m3:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>adj:sg:voc:m3:pos</ctag></lex>
+    <lex><base>serbski</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <lex><base>serbski</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <lex><base>serbski</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">1</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>piłkarz</orth>
+    <lex disamb="1"><base>piłkarz</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>grający</orth>
+    <lex disamb="1"><base>grać</base><ctag>pact:sg:nom:m1:imperf:aff</ctag></lex>
+    <lex><base>grać</base><ctag>pact:sg:nom:m2:imperf:aff</ctag></lex>
+    <lex><base>grać</base><ctag>pact:sg:nom:m3:imperf:aff</ctag></lex>
+    <lex><base>grać</base><ctag>pact:sg:acc:m3:imperf:aff</ctag></lex>
+    <lex><base>grać</base><ctag>pact:pl:nom:m1:imperf:aff</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>Napredaku</orth>
+    <lex><base>Napredaku</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>napredaku</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>Kruševac</orth>
+    <lex><base>Kruševac</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>kruševac</base><ctag>subst:sg:loc:f</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">1</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>pozycji</orth>
+    <lex><base>pozycja</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>pozycja</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>pozycja</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>pozycja</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <tok>
+    <orth>pomocnika</orth>
+    <lex disamb="1"><base>pomocnik</base><ctag>subst:sg:gen:m1</ctag></lex>
+    <lex><base>pomocnik</base><ctag>subst:sg:acc:m1</ctag></lex>
+    <lex><base>pomocnik</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_liv">0</ann>
+    <ann chan="nam_adj">0</ann>
+    <ann chan="nam_org">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent3">
+   <tok>
+    <orth>W</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>2008</orth>
+    <lex><base>2008</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>2008</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex><base>rok</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>wystąpił</orth>
+    <lex disamb="1"><base>wystąpić</base><ctag>praet:sg:m1:perf</ctag></lex>
+    <lex><base>wystąpić</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <lex><base>wystąpić</base><ctag>praet:sg:m3:perf</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex><base>na</base><ctag>interj</ctag></lex>
+    <lex><base>na</base><ctag>prep:acc</ctag></lex>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Igrzyskach</orth>
+    <lex disamb="1"><base>igrzyska</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex disamb="1"><base>igrzysko</base><ctag>subst:pl:loc:n</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Olimpijskich</orth>
+    <lex><base>olimpijski</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:loc:m1:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:gen:m2:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:loc:m2:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <lex><base>olimpijski</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <lex disamb="1"><base>olimpijski</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+    <ann chan="nam_eve">1</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+   <tok>
+    <orth>Pekinie</orth>
+    <lex disamb="1"><base>Pekin</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>Pekin</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <lex disamb="1"><base>pekin</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>pekin</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_eve">0</ann>
+    <ann chan="nam_loc">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chunkList SYSTEM "ccl.dtd">
+<chunkList>
+ <chunk id="ch1">
+  <sentence id="sent1">
+   <tok>
+    <orth>Komunistyczna</orth>
+    <lex disamb="1"><base>komunistyczny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>komunistyczny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+   </tok>
+   <tok>
+    <orth>Partia</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+   </tok>
+   <tok>
+    <orth>Austrii</orth>
+    <lex disamb="1"><base>Austria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch2">
+  <sentence id="sent2">
+   <tok>
+    <orth>Komunistyczna</orth>
+    <lex disamb="1"><base>komunistyczny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>komunistyczny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Partia</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Austrii</orth>
+    <lex disamb="1"><base>Austria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_political_party">1</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>–</orth>
+    <lex disamb="1"><base>–</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>komunistyczna</orth>
+    <lex disamb="1"><base>komunistyczny</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+    <lex><base>komunistyczny</base><ctag>adj:sg:voc:f:pos</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>partia</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>Austrii</orth>
+    <lex><base>Austria</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex disamb="1"><base>Austria</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Austria</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>założona</orth>
+    <lex disamb="1"><base>założyć</base><ctag>ppas:sg:nom:f:perf:aff</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>1918</orth>
+    <lex><base>1918</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>1918</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex><base>rok</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:voc:m3</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_political_party">0</ann>
+    <ann chan="nam_loc_gpe_country">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch3">
+  <sentence id="sent3">
+   <tok>
+    <orth>Partia</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+   </tok>
+   <tok>
+    <orth>publikuje</orth>
+    <lex disamb="1"><base>publikować</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+   </tok>
+   <tok>
+    <orth>Volkstimmen</orth>
+    <lex><base>Volkstimmen</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>volkstimmen</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_pro_media_periodic">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_pro_media_periodic">0</ann>
+   </tok>
+  </sentence>
+  <sentence id="sent4">
+   <tok>
+    <orth>Młodzieżówką</orth>
+    <lex disamb="1"><base>młodzieżówka</base><ctag>subst:sg:inst:f</ctag></lex>
+    <ann chan="nam_org_institution">0</ann>
+   </tok>
+   <tok>
+    <orth>partii</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>Partia</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>Partia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>Partia</base><ctag>subst:pl:gen:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex><base>partia</base><ctag>subst:sg:dat:f</ctag></lex>
+    <lex><base>partia</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex><base>partia</base><ctag>subst:pl:gen:f</ctag></lex>
+    <ann chan="nam_org_institution">0</ann>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <ann chan="nam_org_institution">0</ann>
+   </tok>
+   <tok>
+    <orth>Kommunistische</orth>
+    <lex><base>Kommunistische</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>kommunistische</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <tok>
+    <orth>Jugend</orth>
+    <lex><base>Jugend</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>jugend</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <tok>
+    <orth>Österreichs</orth>
+    <lex><base>Österreichs</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>österreichs</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <tok>
+    <orth>-</orth>
+    <lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <tok>
+    <orth>Junge</orth>
+    <lex><base>Junge</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>junge</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <tok>
+    <orth>Linke</orth>
+    <lex><base>Linke</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>linke</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <ann chan="nam_org_institution">1</ann>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+    <ann chan="nam_org_institution">0</ann>
+   </tok>
+  </sentence>
+ </chunk>
+ <chunk id="ch4">
+  <sentence id="sent5">
+   <tok>
+    <orth>W</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wyborach</orth>
+    <lex disamb="1"><base>wybory</base><ctag>subst:pl:loc:n</ctag></lex>
+    <lex><base>wybór</base><ctag>subst:pl:loc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>parlamentarnych</orth>
+    <lex><base>parlamentarny</base><ctag>adj:pl:gen:m1:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:acc:m1:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:loc:m1:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:gen:m2:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:loc:m2:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:loc:m3:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:gen:f:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:loc:f:pos</ctag></lex>
+    <lex><base>parlamentarny</base><ctag>adj:pl:gen:n:pos</ctag></lex>
+    <lex disamb="1"><base>parlamentarny</base><ctag>adj:pl:loc:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>2002</orth>
+    <lex><base>2002</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>2002</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>roku</orth>
+    <lex><base>rok</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>rok</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>rok</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>partia</orth>
+    <lex disamb="1"><base>Partia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>partia</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>uzyskała</orth>
+    <lex disamb="1"><base>uzyskać</base><ctag>praet:sg:f:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>27</orth>
+    <lex><base>27</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>27</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>568</orth>
+    <lex><base>568</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>568</base><ctag>num:pl:acc:m3:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>głosów</orth>
+    <lex disamb="1"><base>głos</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>(</orth>
+    <lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>0</orth>
+    <lex><base>0</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>0</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>,</orth>
+    <lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>56</orth>
+    <lex><base>56</base><ctag>ign</ctag></lex>
+    <lex disamb="1"><base>56</base><ctag>num:pl:nom:m3:rec</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>%</orth>
+    <lex disamb="1"><base>%</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>)</orth>
+    <lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+  <sentence id="sent6">
+   <tok>
+    <orth>Nie</orth>
+    <lex><base>nie</base><ctag>conj</ctag></lex>
+    <lex disamb="1"><base>nie</base><ctag>qub</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:acc:n:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m2:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:m3:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:f:ter:nakc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:akc:praep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:pl:acc:n:ter:nakc:praep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>udało</orth>
+    <lex disamb="1"><base>udać</base><ctag>praet:sg:n:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jej</orth>
+    <lex><base>jej</base><ctag>interj</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:gen:f:ter:akc:npraep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:gen:f:ter:nakc:npraep</ctag></lex>
+    <lex disamb="1"><base>on</base><ctag>ppron3:sg:dat:f:ter:akc:npraep</ctag></lex>
+    <lex><base>on</base><ctag>ppron3:sg:dat:f:ter:nakc:npraep</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wówczas</orth>
+    <lex disamb="1"><base>wówczas</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zdobyć</orth>
+    <lex><base>zdobycie</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>zdobyć</base><ctag>inf:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>żadnego</orth>
+    <lex><base>żaden</base><ctag>adj:sg:gen:m1:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:acc:m1:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:gen:m2:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:acc:m2:pos</ctag></lex>
+    <lex disamb="1"><base>żaden</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <lex><base>żaden</base><ctag>adj:sg:gen:n:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>mandatu</orth>
+    <lex disamb="1"><base>mandat</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex><base>w</base><ctag>prep:acc:nwok</ctag></lex>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+    <lex><base>wiek</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wielki</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wiersz</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wieś</base><ctag>brev:pun</ctag></lex>
+    <lex><base>wyspa</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <tok>
+    <orth>parlamencie</orth>
+    <lex disamb="1"><base>parlament</base><ctag>subst:sg:loc:m3</ctag></lex>
+    <lex><base>parlament</base><ctag>subst:sg:voc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </sentence>
+ </chunk>
+</chunkList>
