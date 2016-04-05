@@ -22,16 +22,17 @@ def get_words(file_path):
 
 
 with open('../data/kpwr-1.2.7-names-disamb-nam-flatten/index_names.txt', 'rU') as f:
-    file_ = open('../data/prepared/AllFlattenNamWords.txt', 'w')
+    file_ = open('../data/prepared/AllFlattenNamWords.csv', 'w')
     file_.truncate()
     for line in f:
         # try:
             dictionary = get_words("../data/kpwr-1.2.7-names-disamb-nam-flatten/"+line.decode("utf-8").rstrip('\n'))
             for word in dictionary:
-                if dictionary[word]:
-                    file_.write((word + " 1\n").encode("utf-8"))
-                else:
-                    file_.write((word + " 0\n").encode("utf-8"))
+                if word != ",":
+                    if dictionary[word]:
+                        file_.write((word + ",1\n").encode("utf-8"))
+                    else:
+                        file_.write((word + ",0\n").encode("utf-8"))
         # except UnicodeDecodeError:
         #     print line
     file_.close()
