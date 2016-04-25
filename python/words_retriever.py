@@ -15,24 +15,29 @@ def get_words(file_path):
                         if ann.attrib['chan'] == 'nam' and ann.text != '0':
                             is_proper_name = True
                     for orth in tok.find('orth'):
-                        inner_dictionary[orth.text] = is_proper_name
+                        if orth.text not in inner_dictionary:
+                            inner_dictionary[orth.text] = is_proper_name
                     for lex in tok.findall('lex'):
-                        inner_dictionary[lex.find('base').text] = is_proper_name
+                        if lex.find('base').text not in inner_dictionary:
+                            inner_dictionary[lex.find('base').text] = is_proper_name
         return inner_dictionary
 
 
 with open('../data/kpwr-1.2.7-names-disamb-nam-flatten/index_names.txt', 'rU') as f:
     file_ = open('../data/prepared/AllFlattenNamWords.csv', 'w')
     file_.truncate()
+    book = {}
     for line in f:
-        # try:
-            dictionary = get_words("../data/kpwr-1.2.7-names-disamb-nam-flatten/"+line.decode("utf-8").rstrip('\n'))
-            for word in dictionary:
-                if word != ",":
-                    if dictionary[word]:
-                        file_.write((word + ",1\n").encode("utf-8"))
-                    else:
-                        file_.write((word + ",0\n").encode("utf-8"))
-        # except UnicodeDecodeError:
-        #     print line
+        words = get_words("../data/kpwr-1.2.7-names-disamb-nam-flatten/" + line.decode("utf-8").rstrip('\n'))
+        for key in words:
+            if key not in book:
+                book[key] = words[key]
+        print ("Finished crawling " + line.decode("utf-8").rstrip('\n'))
+    for word in book:
+        # if word != "," and word != "." and word != "(" and word != ")" and word != "?" and word != "-" and word != ":" and word != "′" and word != ">" and word != "<" and word != "_":
+        if len(word) > 1 and "." not in word and "-" not in word and "/" not in word:
+            if book[word]:
+                file_.write((word + ",1\n").encode("utf-8"))
+            else:
+                file_.write((word + ",0\n").encode("utf-8"))
     file_.close()
