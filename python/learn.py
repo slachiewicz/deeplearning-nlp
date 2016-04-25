@@ -43,30 +43,37 @@ def load_data(limit=-1):
         return X
 
 
+def prepare_data():
+    X = load_data(word_count)
+    X.sort(cmp=cmp_f)
+
+    npX = np.array(X)
+    npY = npX[:, 1]
+    npX = npX[:, 0]
+    X = npX.tolist()
+
+    X = process_data(X)
+    npX = np.array(X)
+    el_len = len(npX[0])
+    index = 0
+    for element in npX:
+        if len(element) != el_len or element == []:
+            exit("\n *** ERROR -> different element sizes " + str(element) + " on index = " + str(index) + " *** ")
+        index += 1
+
+    npX = np.reshape(npX, (-1, input_length))
+    npY = np.reshape(npY, (-1, input_length))
+    return npX, npY
+
+
 # Variables
 word_count = 32180
 input_length = 10  # word_count must be dividable by this value without any rest
 epochs = 10
 # !Variables
 
-X = load_data(word_count)
-X.sort(cmp=cmp_f)
+npX, npY = prepare_data()
 
-npX = np.array(X)
-npY = npX[:, 1]
-npX = npX[:, 0]
-X = npX.tolist()
-
-X = process_data(X)
-npX = np.array(X)
-el_len = len(npX[0])
-index = 0
-for element in npX:
-    if len(element) != el_len or element == []:
-        exit("\n *** ERROR -> different element sizes " + str(element) + " on index = " + str(index) + " *** ")
-    index += 1
-    npX = np.reshape(npX, (-1, input_length))
-    npY = np.reshape(npY, (-1, input_length))
 print(npX.shape)
 print(npY.shape)
 
