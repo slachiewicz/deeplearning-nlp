@@ -30,11 +30,11 @@ def cmp_f(x, y):
 def test(text):
     X = []
     X.append(preprocessing.text.one_hot(text, n=word_count))
-    print("X:" + str(X))
+    print("text    :" + text)
+    print("encoding:" + str(X))
     predict = np.array(X)
     predict = np.reshape(predict, (-1, input_length))
-    print(predict)
-    print(model.predict(predict))
+    print("result  :" + str(model.predict(predict)))
 
 
 def process_data(X):
@@ -129,10 +129,10 @@ model.compile(loss='binary_crossentropy', optimizer='rmsprop')
 
 model.fit(X_train, Y_train, verbose=1, nb_epoch=epochs)
 
-print("training finished")
+print("Training finished")
 
 result = model.evaluate(X_test, Y_test, verbose=1, sample_weight=None)
-print(result)
+print("Testing result: " + str(result))
 
 print("debug")  # at this point call test(text) to check
 
