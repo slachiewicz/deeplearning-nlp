@@ -13,10 +13,28 @@ from keras.layers.core import Dense, Dropout, Activation, Flatten
 from keras.optimizers import RMSprop
 import re
 import numpy as np
+import math
+
+# Variables
+word_count = 32180
+input_length = 1  # word_count must be dividable by this value without any rest
+epochs = 10
+train_test_ratio = 0.7
+# !Variables
 
 
 def cmp_f(x, y):
     return y[1] - x[1]
+
+
+def test(text):
+    X = []
+    X.append(preprocessing.text.one_hot(text, n=word_count))
+    print("X:" + str(X))
+    predict = np.array(X)
+    predict = np.reshape(predict, (-1, input_length))
+    print(predict)
+    print(model.predict(predict))
 
 
 def process_data(X):
@@ -60,22 +78,18 @@ def prepare_data():
         if len(element) != el_len or element == []:
             exit("\n *** ERROR -> different element sizes " + str(element) + " on index = " + str(index) + " *** ")
         index += 1
+    train_size = math.floor((len(npX)*train_test_ratio) / input_length) * input_length
+    X_train = np.reshape(npX[:train_size], (-1, input_length))
+    Y_train = np.reshape(npY[:train_size], (-1, input_length))
+    X_test = np.reshape(npX[train_size:], (-1, input_length))
+    Y_test = np.reshape(npY[train_size:], (-1, input_length))
+    return X_train, Y_train, X_test, Y_test
 
-    npX = np.reshape(npX, (-1, input_length))
-    npY = np.reshape(npY, (-1, input_length))
-    return npX, npY
 
+X_train, Y_train, X_test, Y_test = prepare_data()
 
-# Variables
-word_count = 32180
-input_length = 10  # word_count must be dividable by this value without any rest
-epochs = 10
-# !Variables
-
-npX, npY = prepare_data()
-
-print(npX.shape)
-print(npY.shape)
+print(X_train.shape)
+print(Y_train.shape)
 
 print(np.random.random((5, 10)))
 
@@ -86,15 +100,15 @@ model.add(Dropout(0.25))
 # we add a Convolution1D, which will learn nb_filter
 # word group filters of size filter_length:
 model.add(Convolution1D(nb_filter=250,
-                        filter_length=3,
+                        filter_length=1,
                         border_mode='valid',
                         activation='relu',
                         subsample_length=1))
 # we use standard max pooling (halving the output of the previous layer):
-model.add(MaxPooling1D(pool_length=2))
+model.add(MaxPooling1D(pool_length=1))
 model.add(Flatten())
 
-# We add a vanilla hidden layer:
+# # We add a vanilla hidden layer:
 model.add(Dense(250))
 model.add(Dropout(0.25))
 model.add(Activation('relu'))
@@ -110,9 +124,17 @@ model.add(Activation('sigmoid'))
 # model.add(Activation('relu'))
 
 rms = RMSprop()
-model.compile(loss='categorical_crossentropy', optimizer=rms)
+# model.compile(loss='categorical_crossentropy', optimizer=rms)
+model.compile(loss='binary_crossentropy', optimizer='rmsprop')
 
-model.fit(npX, npY, nb_epoch=epochs)
+model.fit(X_train, Y_train, verbose=1, nb_epoch=epochs)
+
+print("training finished")
+
+result = model.evaluate(X_test, Y_test, verbose=1, sample_weight=None)
+print(result)
+
+print("debug")  # at this point call test(text) to check
 
 # token = Tokenizer(nb_words=word)
 # token.fit_on_texts(lista)
