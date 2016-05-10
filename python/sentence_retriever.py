@@ -20,7 +20,7 @@ def create_data(xml_sentence):
     list_of_values = []
     for tok in xml_sentence.findall('tok'):
         orth = tok.find('orth').text
-        if re.search("^[.(){},?\"-]+", orth) == None:
+        if re.search("^[.(){},?\";-]+", orth) == None:
             list_of_words.append(orth)
             list_of_values.append(generate_value_for_token(tok))
     return list_of_words, list_of_values
