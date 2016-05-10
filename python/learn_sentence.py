@@ -23,15 +23,15 @@ train_test_ratio = 0.7
 # !Variables
 
 
-def test(text):
+def test(text, input_length):
     X = []
     X.append(preprocessing.text.one_hot(text, n=word_count, split=" "))
     print("text    :" + text)
+    while len(X) < input_length:
+        X.append(0)
     print("encoding:" + str(X))
     predict = np.array(X)
-    predict = np.reshape(predict, (-1, input_length))
-    print(predict)
-    #print("result  :" + str(model.predict(predict)))
+    print("result  :" + str(model.predict(predict)))
 
 
 def process_sentence(sen):
@@ -73,10 +73,7 @@ def load_data(limit=-1):
 
         return np.array(X), np.array(Y)
 
-def prepare_data():
-    X, Y = load_data(5)
-    print(X.shape)
-    print(Y.shape)
+def prepare_data(X, Y):
 
     train_size = math.floor((X.shape[0] * train_test_ratio))
 
@@ -88,8 +85,8 @@ def prepare_data():
     Y_test = Y[train_size:]
     return X_train, Y_train, X_test, Y_test
 
-
-X_train, Y_train, X_test, Y_test = prepare_data()
+X, Y = load_data(100)
+X_train, Y_train, X_test, Y_test = prepare_data(X, Y)
 
 print(X_train.shape)
 print(Y_train.shape)
