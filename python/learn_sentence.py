@@ -129,12 +129,13 @@ model.compile(loss='binary_crossentropy', optimizer='rmsprop', class_mode='binar
 #rms = RMSprop()
 #model.compile(loss='binary_crossentropy', optimizer='rmsprop')
 
-model.fit(X_train, Y_train, verbose=1, nb_epoch=epochs)
+model.fit(X_train, Y_train, verbose=1, nb_epoch=epochs, show_accuracy=True)
 
 print("Training finished")
 
-result = model.evaluate(X_test, Y_test, verbose=1, sample_weight=None)
-print("Testing result: " + str(result))
+score, acc = model.evaluate(X_test, Y_test, verbose=1, show_accuracy=True, sample_weight=None)
+print('Test score:', score)
+print('Test accuracy:', acc)
 
 print("debug")  # at this point call test(text) to check
 test("Ala ma kota", X_train.shape[1], model)

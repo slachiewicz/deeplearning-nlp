@@ -38,7 +38,13 @@ with open('../data/kpwr-1.2.7-names-disamb-nam-flatten/index_names.txt', 'rU') a
         # if word != "," and word != "." and word != "(" and word != ")" and word != "?" and word != "-" and word != ":" and word != "′" and word != ">" and word != "<" and word != "_":
         if len(word) > 1 and "." not in word and "-" not in word and "/" not in word:
             if book[word]:
-                file_.write((word + ",1\n").encode("utf-8"))
+                if word.istitle():
+                    file_.write((word + ",1,1\n").encode("utf-8"))
+                else:
+                    file_.write((word + ",0,1\n").encode("utf-8"))
             else:
-                file_.write((word + ",0\n").encode("utf-8"))
+                if word.istitle():
+                    file_.write((word + ",1,0\n").encode("utf-8"))
+                else:
+                    file_.write((word + ",0,0\n").encode("utf-8"))
     file_.close()
