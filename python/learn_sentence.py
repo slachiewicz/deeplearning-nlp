@@ -7,7 +7,7 @@ from __future__ import print_function
 from keras import preprocessing
 from keras.layers import Convolution1D, MaxPooling1D
 from keras.preprocessing.text import Tokenizer
-from keras.models import Sequential
+from keras.models import Sequential, Graph
 from keras.layers.embeddings import Embedding
 from keras.layers.core import Dense, Dropout, Activation, Flatten
 from keras.optimizers import RMSprop
@@ -20,17 +20,26 @@ import sys
 word_count = 32180 #w tym przypadku chyba mniej slow
 epochs = 10
 train_test_ratio = 0.7
+dropout_prob = (0.25, 0.5)
+hidden_dims = 150
+embedding_weights = None
+embedding_dim = 20
+filter_sizes=(3, 4)
+num_filters = 150
+
 # !Variables
 
 
 def test(text, input_length, model):
     X = []
-    X.append(preprocessing.text.one_hot(text, n=word_count, split=" "))
+    prep = preprocessing.text.one_hot(text, n=word_count, split=" ")
     print("text :" + text)
-    while len(X) < input_length:
-        X.append(0)
+    while len(prep) < input_length:
+        prep.append(0)
+    X.append(prep)
     print("encoding:" + str(X))
     predict = np.array(X)
+    print(predict)
     print("result  :" + str(model.predict(predict)))
 
 
@@ -90,43 +99,35 @@ X_train, Y_train, X_test, Y_test = prepare_data(X, Y)
 
 print(X_train.shape)
 print(Y_train.shape)
-print(X_train)
+print(X_test.shape)
 
+graph = Graph()
+graph.add_input(name='input', input_shape=(X_train.shape[1], embedding_dim))
+for fsz in filter_sizes:
+    conv = Convolution1D(nb_filter=num_filters,
+                         filter_length=fsz,
+                         border_mode='valid',
+                         activation='relu',
+                         subsample_length=1)
+    pool = MaxPooling1D(pool_length=2)
+    graph.add_node(conv, name='conv-%s' % fsz, input='input')
+    graph.add_node(pool, name='maxpool-%s' % fsz, input='conv-%s' % fsz)
+    graph.add_node(Flatten(), name='flatten-%s' % fsz, input='maxpool-%s' % fsz)
+graph.add_output(name='output', inputs=['flatten-%s' % fsz for fsz in filter_sizes], merge_mode='concat')
 
 model = Sequential()
-model.add(Embedding(word_count, 128, input_length=X_train.shape[1]))
-model.add(Dropout(0.25))
-
-# we add a Convolution1D, which will learn nb_filter
-# word group filters of size filter_length:
-model.add(Convolution1D(nb_filter=250,
-                        filter_length=X_train.shape[1],
-                        border_mode='valid',
-                        activation='relu',
-                        subsample_length=X_train.shape[1]))
-
-# we use standard max pooling (halving the output of the previous layer):
-model.add(MaxPooling1D(pool_length=1))
-model.add(Flatten())
-
-# # We add a vanilla hidden layer:
-model.add(Dense(250))
-model.add(Dropout(0.25))
+model.add(Embedding(word_count, embedding_dim, input_length=X_train.shape[1], weights=embedding_weights))
+model.add(Dropout(dropout_prob[0], input_shape=(X_train.shape[1], embedding_dim)))
+model.add(graph)
+model.add(Dense(hidden_dims))
+model.add(Dropout(dropout_prob[1]))
 model.add(Activation('relu'))
-
-# We project onto a single unit output layer, and squash it with a sigmoid:
 model.add(Dense(X_train.shape[1]))
 model.add(Activation('sigmoid'))
+model.compile(loss='binary_crossentropy', optimizer='rmsprop', class_mode='binary')
 
-# model.compile(loss='binary_crossentropy',
-#               optimizer='rmsprop')
-# model.add(Embedding(1,2))
-# model.add(Dense(1, input_shape=(1,)))
-# model.add(Activation('relu'))
-
-rms = RMSprop()
-# model.compile(loss='categorical_crossentropy', optimizer=rms)
-model.compile(loss='binary_crossentropy', optimizer='rmsprop')
+#rms = RMSprop()
+#model.compile(loss='binary_crossentropy', optimizer='rmsprop')
 
 model.fit(X_train, Y_train, verbose=1, nb_epoch=epochs)
 
@@ -137,4 +138,7 @@ print("Testing result: " + str(result))
 
 print("debug")  # at this point call test(text) to check
 test("Ala ma kota", X_train.shape[1], model)
+#json = model.to_json()
+#open("model_json", "w").write(json)
+#model.save_weights("model_weights.h5", overwrite=True)
 
