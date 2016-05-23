@@ -19,7 +19,7 @@ from keras.utils.visualize_util import plot
 # Variables
 word_count = 32180
 input_length = 2  # word_count must be dividable by this value without any rest
-epochs = 20
+epochs = 5
 train_test_ratio = 0.7
 # !Variables
 
@@ -31,6 +31,10 @@ def cmp_f(x, y):
 def test(text):
     X = []
     X.append(preprocessing.text.one_hot(text, n=word_count))
+    capital = 0
+    if text.istitle():
+        capital = 1
+    X.append(preprocessing.text.one_hot(str(capital), n=word_count))
     print("text    :" + text)
     print("encoding:" + str(X))
     predict = np.array(X)
@@ -137,28 +141,4 @@ score, acc = model.evaluate(X_test, Y_test, verbose=1, show_accuracy=True, sampl
 print('Test score:', score)
 print('Test accuracy:', acc)
 
-print("debug")  # at this point call test(text) to check
-
-# plot(model, to_file='learn_model.png')
-
-# token = Tokenizer(nb_words=word)
-# token.fit_on_texts(lista)
-# sequences = np.array(token.texts_to_sequences(lista))
-# print sequences.shape
-
-# x = "Mark Zukerberg and his wife to donate $120M to needy Bay Area schools"
-#
-# tok = Tokenizer(nb_words=13, lower=False)
-# tok.fit_on_texts(x)
-#
-# data = tok.texts_to_sequences(x)
-# print data
-#
-# for i in tok.texts_to_sequences_generator(x):
-#    couples, labels = sequence.skipgrams(i, 12, window_size=2, negative_samples=0.)
-#    print couples, labels
-#
-# model = Sequential()
-# model.add(Embedding(input_dim=1, output_dim=2))
-#
-# model.compile(optimizer='adam', loss='binary_crossentropy')
+# print("debug")  # at this point call test(text) to check
